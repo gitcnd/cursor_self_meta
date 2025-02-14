@@ -1,8 +1,8 @@
 # octal file mode, owner, group, mtime, atime, spare1, spare2, filename	# https://github.com/gitcnd/git-meta.git v0.20250112
-# last: Chris <cryptophoto@gmail.com> at 2025-02-14 18:11:37 +1000
+# last: Chris <cryptophoto@gmail.com> at 2025-02-14 18:17:10 +1000
 0777,cnd,cnd,2025-02-14 18:07:00.57877 +1000,2025-02-14 18:07:00.57877 +1000,,,README.txt
 0777,cnd,cnd,2025-02-14 16:24:32.3802 +1000,2025-02-14 16:24:32.3802 +1000,,,cursor_self_meta.pl
 0777,cnd,cnd,2025-02-14 16:33:46.326 +1000,2025-02-14 16:33:46.326 +1000,,,.gitignore
 0777,cnd,cnd,2025-02-14 16:53:21.08221 +1000,2025-02-14 16:53:46.64834 +1000,,,LICENSE.txt
-0777,cnd,cnd,2025-02-14 17:07:24.63927 +1000,2025-02-14 17:07:24.63927 +1000,,,README.md
+0777,cnd,cnd,2025-02-14 18:16:29.52593 +1000,2025-02-14 18:16:29.52593 +1000,,,README.md
 0777,cnd,cnd,2025-02-14 16:32:28.62054 +1000,2025-02-14 16:32:28.62054 +1000,,,settings.json

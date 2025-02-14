@@ -1,6 +1,6 @@
 # Cursor Self-Meta.
 
-A stdio-based MCP Server implementation in Perl which gives cursor verbatim access to its own internal state (including all the Chat and Composer histories).
+A stdio-based MCP Server implementation in Perl which gives [Cursor IDE](https://cursor.sh) verbatim access to its own internal state (including all the Chat and Composer histories).
 
 ## Description
 
