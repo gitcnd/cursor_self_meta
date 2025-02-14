@@ -1,0 +1,8 @@
+# VS Code/Cursor settings
+.vscode/
+.cursor/
+settings.json
+
+# Common VS Code files that might contain sensitive data
+*.code-workspace
+.history/ 
