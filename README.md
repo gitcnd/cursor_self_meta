@@ -1,6 +1,6 @@
-# MCP Server
+# Cursor Self-Meta.
 
-A stdio-based MCP (MUD Client Protocol) Server implementation in Perl.
+A stdio-based MCP Server implementation in Perl which gives cursor verbatim access to its own internal state (including all the Chat and Composer histories).
 
 ## Description
 
@@ -8,7 +8,7 @@ TBA
 
 ## Features
 
-- TBA
+- Uses basic JSON-RPC over Stdio for secure, hassle-free local usage from within cursor
 - TBA
 - TBA
 
