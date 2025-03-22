@@ -1,0 +1,6 @@
+Introspection - the ultimate MCP
+
+
+sqlite3 myfile.sqlite  'SELECT key,value FROM Table;'
+
+cho -e ".tables\n.schema\n.indexes\n.database" | sqlite3 myfile.sqlite
